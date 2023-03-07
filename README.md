@@ -2,7 +2,7 @@
 
 ### I'm a Data Scientist and Machine Learning Engineer based in Brazil.
 - 📕 BSc. Applied Mathematics, major in Biological Sciences
-- 🌱 I’m currently researching deep reinforcement learning, with a particular focus on policy gradient methods and evolutionary strategies
+- 🌱 I’m currently learning more about convolutional neural networks (CNNs) and its applications on image super-resolution tasks
 - 📫 Reach me at andrekato@usp.br
 - ⚡ Fun facts: I  know how to play guitar and piano and speak 3 languages (Portuguese, English and Japanese)
 
