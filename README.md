@@ -1,10 +1,10 @@
 ### Hi there, I'm André! 👋 
 
-### I'm a Data Scientist and Machine Learning Engineer based in Brazil.
-- 📕 BSc. Applied Mathematics, major in Biological Sciences
+### I'm a Data Scientist based in Brazil.
+- 📕 BSc. Applied Mathematics
 - 🌱 I’m currently learning more about convolutional neural networks (CNNs) and its applications on image super-resolution tasks
-- 📫 Reach me at andrekato@usp.br
-- ⚡ Fun facts: I  know how to play guitar and piano and speak 3 languages (Portuguese, English and Japanese)
+- 📫 Reach me at katoandre25@gmail.com
+- ⚡ Fun facts: I sometimes upload guitar covers to youtube :) https://www.youtube.com/@LGN1111
 
 ### Connect with me:
 
